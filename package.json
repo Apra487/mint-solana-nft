@@ -1,0 +1,19 @@
+{
+  "name": "mint-solana-nft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@metaplex/js": "^4.12.0",
+    "@solana/web3.js": "^1.43.4",
+    "arweave": "^1.11.4",
+    "dotenv": "^16.0.1"
+  }
+}
